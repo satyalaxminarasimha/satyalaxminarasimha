@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Satya 👋</h1>
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/pandu20033">
-<img src="https://www.google.com/search?q=https://img.shields.io/github/followers/pandu20033%3Flabel%3DFollow%26style%3Dsocial" alt="GitHub">
+<a href="https://www.google.com/search?q=https://github.com/satyalaxminarasimha">
+<img src="https://www.google.com/search?q=https://img.shields.io/github/followers/satyalaxminarasimha%3Flabel%3DFollow%26style%3Dsocial" alt="GitHub">
 </a>
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/satya2812/">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-satya2812-blue%3Fstyle%3Dflat%26logo%3Dlinkedin" alt="LinkedIn">
@@ -28,9 +28,9 @@ I'm a detail-oriented and results-driven Computer Science student specializing i
 💻 Tech Stack
 📊 GitHub Stats
 <p align="center">
-<img height="150em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dpandu20033%26theme%3Dtokyonight%26show_icons%3Dtrue%26hide_border%3Dtrue%26include_all_commits%3Dtrue" />
-<img height="150em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dpandu20033%26theme%3Dtokyonight%26hide_border%3Dtrue%26layout%3Dcompact" />
+<img height="150em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsatyalaxminarasimha%26theme%3Dtokyonight%26show_icons%3Dtrue%26hide_border%3Dtrue%26include_all_commits%3Dtrue" />
+<img height="150em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsatyalaxminarasimha%26theme%3Dtokyonight%26hide_border%3Dtrue%26layout%3Dcompact" />
 </p>
 <p align="center">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dpandu20033%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="pandu20033" />
+<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dsatyalaxminarasimha%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="pandu20033" />
 </p>
