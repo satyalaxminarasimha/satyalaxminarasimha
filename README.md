@@ -4,8 +4,8 @@
 
 <!-- Introduction -->
 
-<h1 align="center">✨ Hello, I'm Satya</h1>
-<p align="center">
+<h1>✨ Hello, I'm Satya</h1>
+<p>
 A detail-oriented and results-driven Computer Science student specializing in Artificial Intelligence and Machine Learning.
 </p>
 
@@ -21,16 +21,16 @@ A detail-oriented and results-driven Computer Science student specializing in Ar
 
 <!-- Socials -->
 
-<h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
+<h3>🌐 Connect with Me</h3>
+<p>
 <a href="https://www.linkedin.com/in/satya2812/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/satyalaxminarasimha" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <!-- Tech Stack -->
 
-<h3 align="center">💻 Tech Stack</h3>
-<p align="center">
+<h3>💻 Tech Stack</h3>
+<p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -55,17 +55,10 @@ A detail-oriented and results-driven Computer Science student specializing in Ar
 
 <!-- GitHub Stats -->
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
+<h3>📊 GitHub Stats</h3>
+<p>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=satyalaxminarasimha&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyalaxminarasimha&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyalaxminarasimha&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<!-- GitHub Trophies -->
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=satyalaxminarasimha&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
