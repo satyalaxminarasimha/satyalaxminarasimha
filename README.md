@@ -1,6 +1,6 @@
 <!-- Header Image -->
 
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="190px" width="100%" />
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="190px" width="100%" />
 
 <!-- Introduction -->
 
@@ -23,7 +23,7 @@ A detail-oriented and results-driven Computer Science student specializing in Ar
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/satya2812/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/satya2812/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/satyalaxminarasimha" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
@@ -41,15 +41,15 @@ A detail-oriented and results-driven Computer Science student specializing in Ar
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/redux-%2523764ABC.svg%3Fstyle%3Dfor-the-badge%26logo%3Dredux%26logoColor%3Dwhite" alt="Redux"/>
+<img src="https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
 <br/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-%2523FF9900.svg%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS"/>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 <br/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow-%2523FF6F00.svg%3Fstyle%3Dfor-the-badge%26logo%3DTensorFlow%26logoColor%3Dwhite" alt="TensorFlow"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PyTorch-%2523EE4C2C.svg%3Fstyle%3Dfor-the-badge%26logo%3DPyTorch%26logoColor%3Dwhite" alt="PyTorch"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-%2523F7931E.svg%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
@@ -57,15 +57,15 @@ A detail-oriented and results-driven Computer Science student specializing in Ar
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-<img height="150em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsatyalaxminarasimha%26theme%3Dtokyonight%26show_icons%3Dtrue%26hide_border%3Dtrue%26include_all_commits%3Dtrue" alt="GitHub Stats"/>
-<img height="150em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsatyalaxminarasimha%26theme%3Dtokyonight%26hide_border%3Dtrue%26layout%3Dcompact" alt="Top Languages"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=satyalaxminarasimha&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyalaxminarasimha&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
 <br/>
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dsatyalaxminarasimha%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satyalaxminarasimha&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <!-- GitHub Trophies -->
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dsatyalaxminarasimha%26theme%3Dtokyonight%26no-frame%3Dfalse%26no-bg%3Dtrue%26margin-w%3D4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=satyalaxminarasimha&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
